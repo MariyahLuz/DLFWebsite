@@ -2309,6 +2309,7 @@ ul {
 .stricky-header.main-menu-three .main-menu__list>li {
     padding-top: 13px;
     padding-bottom: 13px;
+    width: max-content;
 }
 
 /*--------------------------------------------------------------
