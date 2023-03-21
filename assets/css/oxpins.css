@@ -6606,7 +6606,7 @@ body.locked .page-wrapper {
 .contact-one {
     position: relative;
     display: block;
-    margin-top: -70px;
+    margin-top: 32px;
     z-index: 1;
     background-color: goldenrod;
 }
@@ -7711,7 +7711,7 @@ body.locked .page-wrapper {
     background-position: center;
     background-size: cover;
     mix-blend-mode: luminosity;
-    opacity: .15;
+    opacity: .20;
     z-index: -1;
 }
 
@@ -7721,7 +7721,7 @@ body.locked .page-wrapper {
     bottom: 0;
     left: 0;
     width: 807px;
-    opacity: 0.20;
+    opacity: 0.30;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -7740,7 +7740,7 @@ body.locked .page-wrapper {
 .events-two__text {
     color: darkgoldenrod;
     font-size: 19px;
-    padding-bottom: 41px;
+    padding-bottom: 0px;
 }
 
 .events-two__btn {
@@ -11381,7 +11381,7 @@ body.boxed-wrapper {
     font-weight: 700;
     line-height: 48px;
     color: rgb(0, 135, 177);
-    margin: 0 0 10px 0;
+    margin: 0 0 70px 0;
   }
   
   .section-subhead-text {
@@ -11494,7 +11494,7 @@ body {
 }
 
 .wk-desk-3 {
-  width: 25%;
+  width: 28%;
 }
 
 .wk-desk-4 {
@@ -11542,8 +11542,8 @@ body {
     width: 16.666667%;
   }
 
-  .wk-ipadp-3 {
-    width: 25%;
+  .wk-desk-3 {
+    width: 28%;
   }
 
   .wk-ipadp-4 {
