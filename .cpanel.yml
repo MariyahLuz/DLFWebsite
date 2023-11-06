@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/My Folders/MyProjects/DLFWebsite/DLF/main-html 
-    -/bin/cp -R  /home/My Folders/MyProjects/DLFWebsite/DLF/main-html * $DEPLOYPATH
+    - export DEPLOYPATH=/maria/home/My Folders/MyProjects/DLFWebsite/DLF/main-html 
+    -/bin/cp -R  /maria/home/My Folders/MyProjects/DLFWebsite/DLF/main-html * $DEPLOYPATH
