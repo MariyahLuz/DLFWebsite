@@ -6695,7 +6695,7 @@ body.locked .page-wrapper {
 }
 
 .contact-one__number {
-    color: gold;
+    color: var(--oxpins-black);
     font-size: 16px;
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
@@ -10940,7 +10940,7 @@ body.locked .page-wrapper {
 .contact-three {
     position: relative;
     display: block;
-    background-color: darkgoldenrod;
+    background-color: #202A44;
     padding: 120px 0 180px;
     z-index: 1;
 }
