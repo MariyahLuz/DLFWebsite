@@ -1,6 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/My Folders/MyProjects/DLFWebsite/DLF/main-html/index_html/
-    - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp oxpin.css $DEPLOYPATH
+    - export DEPLOYPATH=/home/My Folders/MyProjects/DLFWebsite/DLF/main-html 
+    - /bin/cp -r * $DEPLOYPATH
